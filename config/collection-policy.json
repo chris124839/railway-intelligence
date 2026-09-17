@@ -1,0 +1,11 @@
+{
+  "mvp": {
+    "train_numbers": ["17250"],
+    "live_poll_minutes": 60,
+    "daily_update": true,
+    "monthly_request_budget": 1000,
+    "reserve_requests": 100,
+    "reason": "Keep the first train safely inside the free API allowance while we validate the pipeline."
+  },
+  "scale_note": "Do not enable all-train live polling on a 1,000-request/month provider plan. Add a permitted bulk/live source or licensed API before scaling."
+}

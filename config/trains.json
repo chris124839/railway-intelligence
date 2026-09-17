@@ -1,0 +1,8 @@
+[
+  {
+    "train_number": "17250",
+    "enabled": true,
+    "collect_live": true,
+    "historical_backfill": true
+  }
+]
